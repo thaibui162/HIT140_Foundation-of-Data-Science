@@ -1,0 +1,105 @@
+Date,Round,MatchID,HomeTeam,AwayTeam,HomeFoulsCommitted,AwayFoulsCommitted
+2026-06-11,First Stage,400021443,Mexico,South Africa,12,11
+2026-06-12,First Stage,400021441,Korea Republic,Czechia,9,16
+2026-06-12,First Stage,400021449,Canada,Bosnia and Herzegovina,10,20
+2026-06-13,First Stage,400021458,USA,Paraguay,13,17
+2026-06-13,First Stage,400021447,Qatar,Switzerland,12,11
+2026-06-13,First Stage,400021456,Brazil,Morocco,16,14
+2026-06-14,First Stage,400021453,Haiti,Scotland,23,21
+2026-06-14,First Stage,400021463,Australia,Türkiye,12,4
+2026-06-14,First Stage,400021464,Germany,Curaçao,18,11
+2026-06-14,First Stage,400021470,Netherlands,Japan,7,7
+2026-06-14,First Stage,400021467,Côte d'Ivoire,Ecuador,10,13
+2026-06-15,First Stage,400021474,Sweden,Tunisia,10,8
+2026-06-15,First Stage,400021482,Spain,Cabo Verde,10,1
+2026-06-15,First Stage,400021478,Belgium,Egypt,15,15
+2026-06-15,First Stage,400021486,Saudi Arabia,Uruguay,11,6
+2026-06-16,First Stage,400021476,IR Iran,New Zealand,10,8
+2026-06-16,First Stage,400021490,France,Senegal,5,9
+2026-06-16,First Stage,400021488,Iraq,Norway,12,13
+2026-06-17,First Stage,400021496,Argentina,Algeria,13,8
+2026-06-17,First Stage,400021498,Austria,Jordan,12,7
+2026-06-17,First Stage,400021502,Portugal,Congo DR,9,10
+2026-06-17,First Stage,400021507,England,Croatia,10,12
+2026-06-17,First Stage,400021510,Ghana,Panama,9,11
+2026-06-18,First Stage,400021504,Uzbekistan,Colombia,14,11
+2026-06-18,First Stage,400021440,Czechia,South Africa,12,10
+2026-06-18,First Stage,400021446,Switzerland,Bosnia and Herzegovina,7,17
+2026-06-18,First Stage,400021450,Canada,Qatar,9,10
+2026-06-19,First Stage,400021442,Mexico,Korea Republic,9,7
+2026-06-19,First Stage,400021462,USA,Australia,12,16
+2026-06-19,First Stage,400021454,Scotland,Morocco,11,8
+2026-06-20,First Stage,400021457,Brazil,Haiti,13,14
+2026-06-20,First Stage,400021460,Türkiye,Paraguay,14,15
+2026-06-20,First Stage,400021472,Netherlands,Sweden,9,12
+2026-06-20,First Stage,400021469,Germany,Côte d'Ivoire,5,7
+2026-06-21,First Stage,400021465,Ecuador,Curaçao,7,10
+2026-06-21,First Stage,400021475,Tunisia,Japan,8,15
+2026-06-21,First Stage,400021483,Spain,Saudi Arabia,10,2
+2026-06-21,First Stage,400021477,Belgium,IR Iran,7,9
+2026-06-21,First Stage,400021487,Uruguay,Cabo Verde,11,4
+2026-06-22,First Stage,400021480,New Zealand,Egypt,14,8
+2026-06-22,First Stage,400021494,Argentina,Austria,13,13
+2026-06-22,First Stage,400021492,France,Iraq,8,4
+2026-06-23,First Stage,400021491,Norway,Senegal,13,5
+2026-06-23,First Stage,400021499,Jordan,Algeria,11,6
+2026-06-23,First Stage,400021503,Portugal,Uzbekistan,14,15
+2026-06-23,First Stage,400021506,England,Ghana,14,24
+2026-06-23,First Stage,400021511,Panama,Croatia,19,12
+2026-06-24,First Stage,400021501,Colombia,Congo DR,12,16
+2026-06-24,First Stage,400021448,Bosnia and Herzegovina,Qatar,9,14
+2026-06-24,First Stage,400021451,Switzerland,Canada,19,13
+2026-06-24,First Stage,400021452,Morocco,Haiti,10,18
+2026-06-24,First Stage,400021455,Scotland,Brazil,10,11
+2026-06-25,First Stage,400021445,South Africa,Korea Republic,7,9
+2026-06-25,First Stage,400021444,Czechia,Mexico,9,13
+2026-06-25,First Stage,400021468,Curaçao,Côte d'Ivoire,11,6
+2026-06-25,First Stage,400021466,Ecuador,Germany,15,10
+2026-06-25,First Stage,400021473,Tunisia,Netherlands,11,10
+2026-06-25,First Stage,400021471,Japan,Sweden,20,11
+2026-06-26,First Stage,400021461,Paraguay,Australia,9,6
+2026-06-26,First Stage,400021459,Türkiye,USA,13,13
+2026-06-26,First Stage,400021493,Senegal,Iraq,10,11
+2026-06-26,First Stage,400021489,Norway,France,9,11
+2026-06-27,First Stage,400021484,Uruguay,Spain,14,14
+2026-06-27,First Stage,400021485,Cabo Verde,Saudi Arabia,10,16
+2026-06-27,First Stage,400021481,New Zealand,Belgium,10,7
+2026-06-27,First Stage,400021479,Egypt,IR Iran,11,16
+2026-06-27,First Stage,400021508,Panama,England,16,13
+2026-06-27,First Stage,400021509,Croatia,Ghana,9,13
+2026-06-27,First Stage,400021500,Congo DR,Uzbekistan,6,16
+2026-06-27,First Stage,400021505,Colombia,Portugal,12,6
+2026-06-28,First Stage,400021497,Algeria,Austria,3,7
+2026-06-28,First Stage,400021495,Jordan,Argentina,13,7
+2026-06-28,Round of 32,400021518,South Africa,Canada,10,16
+2026-06-29,Round of 32,400021516,Brazil,Japan,4,13
+2026-06-29,Round of 32,400021513,Germany,Paraguay,18,12
+2026-06-30,Round of 32,400021522,Netherlands,Morocco,18,15
+2026-06-30,Round of 32,400021514,Côte d'Ivoire,Norway,6,7
+2026-06-30,Round of 32,400021523,France,Sweden,14,10
+2026-07-01,Round of 32,400021520,Mexico,Ecuador,10,14
+2026-07-01,Round of 32,400021512,England,Congo DR,10,12
+2026-07-01,Round of 32,400021525,Belgium,Senegal,22,12
+2026-07-02,Round of 32,400021524,USA,Bosnia and Herzegovina,7,13
+2026-07-02,Round of 32,400021519,Spain,Austria,8,15
+2026-07-02,Round of 32,400021526,Portugal,Croatia,6,12
+2026-07-03,Round of 32,400021527,Switzerland,Algeria,10,12
+2026-07-03,Round of 32,400021515,Australia,Egypt,12,14
+2026-07-03,Round of 32,400021521,Argentina,Cabo Verde,13,12
+2026-07-04,Round of 32,400021517,Colombia,Ghana,14,10
+2026-07-04,Round of 16,400021530,Canada,Morocco,24,14
+2026-07-04,Round of 16,400021533,Paraguay,France,13,11
+2026-07-05,Round of 16,400021532,Brazil,Norway,7,6
+2026-07-06,Round of 16,400021531,Mexico,England,14,7
+2026-07-06,Round of 16,400021529,Portugal,Spain,9,13
+2026-07-07,Round of 16,400021534,USA,Belgium,11,9
+2026-07-07,Round of 16,400021528,Argentina,Egypt,13,11
+2026-07-07,Round of 16,400021535,Switzerland,Colombia,22,21
+2026-07-09,Quarter-final,400021536,France,Morocco,10,13
+2026-07-10,Quarter-final,400021538,Spain,Belgium,13,18
+2026-07-11,Quarter-final,400021539,Norway,England,10,8
+2026-07-12,Quarter-final,400021537,Argentina,Switzerland,14,18
+2026-07-14,Semi-final,400021541,France,Spain,11,12
+2026-07-15,Semi-final,400021540,England,Argentina,11,15
+2026-07-18,Bronze final,400021542,France,England,14,8
+2026-07-19,Final,400021543,Spain,Argentina,21,25
