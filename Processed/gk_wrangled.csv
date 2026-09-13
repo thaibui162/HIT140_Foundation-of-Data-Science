@@ -1,0 +1,63 @@
+﻿player,team,position,age,club,qualified,group_label,games,gk_games,gk_games_starts,gk_minutes,gk_goals_against,gk_shots_on_target_against,gk_saves,gk_save_pct,gk_clean_sheets,has_save_pct,is_primary_gk,save_pct_calc,counts_add_up
+Luca Zidane,Algeria,GK,28,Granada,True,Advanced,3,3.0,3.0,270.0,6.0,14.0,8.0,57.1,0.0,True,True,57.14,True
+Oussama Benbot,Algeria,GK,31,,True,Advanced,1,1.0,1.0,90.0,3.0,3.0,0.0,0.0,0.0,True,False,0.0,True
+Emiliano Martínez,Argentina,GK,33,Aston Villa,True,Advanced,8,8.0,8.0,810.0,8.0,28.0,20.0,71.4,2.0,True,True,71.43,True
+Patrick Beach,Australia,GK,22,Melb City,True,Advanced,4,4.0,4.0,388.0,3.0,17.0,14.0,82.4,2.0,True,True,82.35,True
+Mathew Ryan,Australia,GK,34,Levante,True,Advanced,1,1.0,0.0,2.0,0.0,0.0,0.0,,0.0,False,False,,True
+Alexander Schlager,Austria,GK,30,RB Salzburg,True,Advanced,4,4.0,4.0,360.0,9.0,22.0,13.0,59.1,0.0,True,True,59.09,True
+Thibaut Courtois,Belgium,GK,34,Real Madrid,True,Advanced,6,6.0,6.0,550.0,6.0,20.0,14.0,70.0,1.0,True,True,70.0,True
+Senne Lammens,Belgium,GK,23,Manchester Utd,True,Advanced,1,1.0,0.0,20.0,1.0,3.0,2.0,66.7,0.0,True,False,66.67,True
+Nikola Vasilj,Bosnia and Herzegovina,GK,30,St Pauli,True,Advanced,4,4.0,4.0,360.0,8.0,14.0,6.0,42.9,0.0,True,True,42.86,True
+Alisson,Brazil,GK,33,Liverpool,True,Advanced,5,5.0,5.0,450.0,4.0,18.0,14.0,77.8,2.0,True,True,77.78,True
+Vozinha,Cabo Verde,GK,40,,True,Advanced,4,4.0,4.0,390.0,5.0,23.0,18.0,78.3,2.0,True,True,78.26,True
+Maxime Crépeau,Canada,GK,32,Orlando City,True,Advanced,5,5.0,5.0,450.0,6.0,12.0,6.0,50.0,2.0,True,True,50.0,True
+Camilo Vargas,Colombia,GK,37,Atlas,True,Advanced,5,5.0,5.0,480.0,1.0,7.0,6.0,85.7,4.0,True,True,85.71,True
+Lionel Mpasi,Congo DR,GK,31,Le Havre,True,Advanced,4,4.0,4.0,360.0,5.0,19.0,14.0,73.7,0.0,True,True,73.68,True
+Dominik Livaković,Croatia,GK,31,Dinamo Zagreb,True,Advanced,4,4.0,4.0,360.0,7.0,17.0,10.0,58.8,1.0,True,True,58.82,True
+Eloy Room,Curaçao,GK,37,Miami FC,False,Eliminated,3,3.0,3.0,270.0,9.0,29.0,20.0,69.0,1.0,True,True,68.97,True
+Matej Kovar,Czechia,GK,26,PSV,False,Eliminated,3,3.0,3.0,270.0,6.0,15.0,9.0,60.0,0.0,True,True,60.0,True
+Yahia Fofana,Côte d'Ivoire,GK,25,Rizespor,True,Advanced,4,4.0,4.0,360.0,4.0,13.0,9.0,69.2,2.0,True,True,69.23,True
+Hernán Galíndez,Ecuador,GK,39,Huracán,True,Advanced,4,4.0,4.0,360.0,4.0,13.0,9.0,69.2,1.0,True,True,69.23,True
+Mostafa Shobeir,Egypt,GK,26,,True,Advanced,5,5.0,5.0,480.0,7.0,19.0,12.0,63.2,0.0,True,True,63.16,True
+Jordan Pickford,England,GK,32,Everton,True,Advanced,7,7.0,7.0,660.0,8.0,23.0,15.0,65.2,2.0,True,True,65.22,True
+Dean Henderson,England,GK,29,Crystal Palace,True,Advanced,1,1.0,1.0,90.0,4.0,9.0,5.0,55.6,0.0,True,False,55.56,True
+Mike Maignan,France,GK,30,Milan,True,Advanced,8,8.0,8.0,720.0,10.0,22.0,12.0,54.5,4.0,True,True,54.55,True
+Manuel Neuer,Germany,GK,40,Bayern Munich,True,Advanced,4,4.0,4.0,390.0,5.0,10.0,5.0,50.0,0.0,True,True,50.0,True
+Benjamin Asare,Ghana,GK,33,,True,Advanced,3,3.0,2.0,225.0,2.0,10.0,8.0,80.0,2.0,True,True,80.0,True
+Lawrence Ati-Zigi,Ghana,GK,29,St. Gallen,True,Advanced,2,2.0,2.0,135.0,1.0,9.0,8.0,88.9,1.0,True,False,88.89,True
+Johny Placide,Haiti,GK,38,Bastia,False,Eliminated,3,3.0,3.0,270.0,8.0,19.0,11.0,57.9,0.0,True,True,57.89,True
+Alireza Beiranvand,IR Iran,GK,33,Tractor,False,Eliminated,3,3.0,3.0,270.0,3.0,18.0,15.0,83.3,1.0,True,True,83.33,True
+Ahmed Basil,Iraq,GK,29,,False,Eliminated,2,2.0,2.0,135.0,4.0,7.0,3.0,42.9,0.0,True,False,42.86,True
+Jalal Hassan,Iraq,GK,35,,False,Eliminated,2,2.0,1.0,135.0,8.0,16.0,8.0,50.0,0.0,True,True,50.0,True
+Zion Suzuki,Japan,GK,23,Parma,True,Advanced,4,4.0,4.0,360.0,5.0,17.0,12.0,70.6,1.0,True,True,70.59,True
+Yazeed Abulaila,Jordan,GK,33,,False,Eliminated,3,3.0,3.0,270.0,8.0,16.0,8.0,50.0,0.0,True,True,50.0,True
+Kim Seung-gyu,Korea Republic,GK,35,FC Tokyo,False,Eliminated,3,3.0,3.0,270.0,3.0,12.0,9.0,75.0,0.0,True,True,75.0,True
+Raúl Rangel,Mexico,GK,26,Guadalajara,True,Advanced,5,5.0,5.0,437.0,3.0,11.0,8.0,72.7,4.0,True,True,72.73,True
+Guillermo Ochoa,Mexico,GK,40,,True,Advanced,1,1.0,0.0,13.0,0.0,0.0,0.0,,1.0,False,False,,True
+Yassine Bounou,Morocco,GK,35,Al-Hilal,True,Advanced,6,6.0,6.0,570.0,6.0,20.0,14.0,70.0,2.0,True,True,70.0,True
+Bart Verbruggen,Netherlands,GK,23,Brighton,True,Advanced,4,4.0,4.0,390.0,5.0,21.0,16.0,76.2,0.0,True,True,76.19,True
+Max Crocombe,New Zealand,GK,32,Millwall,False,Eliminated,3,3.0,3.0,270.0,10.0,21.0,11.0,52.4,0.0,True,True,52.38,True
+Ørjan Nyland,Norway,GK,35,Sevilla,True,Advanced,5,5.0,5.0,480.0,7.0,22.0,15.0,68.2,0.0,True,True,68.18,True
+Egil Selvik,Norway,GK,28,Watford,True,Advanced,1,1.0,1.0,90.0,4.0,9.0,5.0,55.6,0.0,True,False,55.56,True
+Orlando Mosquera,Panama,GK,31,Al-Fayha,False,Eliminated,3,3.0,3.0,270.0,4.0,11.0,7.0,63.6,0.0,True,True,63.64,True
+Orlando Gill,Paraguay,GK,26,San Lorenzo,True,Advanced,5,5.0,5.0,480.0,6.0,29.0,23.0,79.3,2.0,True,True,79.31,True
+Diogo Costa,Portugal,GK,26,Porto,True,Advanced,5,5.0,5.0,450.0,3.0,22.0,19.0,86.4,2.0,True,True,86.36,True
+Mahmoud Abunada,Qatar,GK,26,,False,Eliminated,3,3.0,3.0,270.0,10.0,22.0,12.0,54.5,0.0,True,True,54.55,True
+Mohammed Al-Owais,Saudi Arabia,GK,34,Al-Ula,False,Eliminated,3,3.0,3.0,270.0,5.0,21.0,16.0,76.2,1.0,True,True,76.19,True
+Angus Gunn,Scotland,GK,30,Nottingham,False,Eliminated,3,3.0,3.0,270.0,4.0,12.0,8.0,66.7,1.0,True,True,66.67,True
+Mory Diaw,Senegal,GK,32,Le Havre,True,Advanced,3,3.0,2.0,238.0,3.0,7.0,4.0,57.1,1.0,True,True,57.14,True
+Édouard Mendy,Senegal,GK,34,Al-Ahli,True,Advanced,2,2.0,2.0,152.0,6.0,14.0,8.0,57.1,0.0,True,False,57.14,True
+Ronwen Williams,South Africa,GK,34,Sundowns,True,Advanced,4,4.0,4.0,360.0,4.0,15.0,11.0,73.3,1.0,True,True,73.33,True
+Unai Simón,Spain,GK,29,Athletic Club,True,Advanced,8,8.0,8.0,750.0,1.0,11.0,9.0,90.9,7.0,True,True,81.82,False
+Jacob Widell Zetterström,Sweden,GK,27,Derby County,True,Advanced,2,2.0,2.0,180.0,4.0,15.0,11.0,73.3,0.0,True,True,73.33,True
+Kristoffer Nordfeldt,Sweden,GK,36,AIK Stockholm,True,Advanced,2,2.0,2.0,180.0,6.0,9.0,3.0,33.3,0.0,True,False,33.33,True
+Gregor Kobel,Switzerland,GK,28,Dortmund,True,Advanced,6,6.0,6.0,600.0,6.0,26.0,20.0,76.9,2.0,True,True,76.92,True
+Aymen Dahmen,Tunisia,GK,29,,False,Eliminated,2,2.0,2.0,180.0,7.0,12.0,5.0,41.7,0.0,True,True,41.67,True
+Mouhib Chamakh,Tunisia,GK,24,,False,Eliminated,1,1.0,1.0,90.0,5.0,6.0,1.0,16.7,0.0,True,False,16.67,True
+Uğurcan Çakır,Türkiye,GK,30,Galatasaray,False,Eliminated,3,3.0,3.0,270.0,5.0,13.0,8.0,61.5,0.0,True,True,61.54,True
+Matt Freese,USA,GK,27,NYCFC,True,Advanced,4,4.0,4.0,360.0,5.0,13.0,8.0,61.5,2.0,True,True,61.54,True
+Matt Turner,USA,GK,31,NE Revolution,True,Advanced,1,1.0,1.0,90.0,3.0,3.0,0.0,0.0,0.0,True,False,0.0,True
+Fernando Muslera,Uruguay,GK,39,Galatasaray,False,Eliminated,3,3.0,3.0,225.0,4.0,8.0,4.0,50.0,0.0,True,True,50.0,True
+Sergio Rochet,Uruguay,GK,33,Internacional,False,Eliminated,1,1.0,0.0,45.0,0.0,0.0,0.0,,0.0,False,False,,True
+Abduvohid Nematov,Uzbekistan,GK,25,,False,Eliminated,2,2.0,2.0,180.0,8.0,13.0,5.0,38.5,0.0,True,True,38.46,True
+Utkir Yusupov,Uzbekistan,GK,35,,False,Eliminated,1,1.0,1.0,90.0,3.0,4.0,1.0,25.0,0.0,True,False,25.0,True
